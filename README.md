@@ -39,7 +39,7 @@ Key concepts used in Lex:
 | **Security** | Notebook verifies Lex permissions and that the execution role trusts `lexv2.amazonaws.com` before creating anything |
 | **Next step** | Amazon Bedrock for generative responses on top of the intent flow |
 
----|---|
+
 | **Bot** | `mySampleChatBot`: "Chatbot for handling greetings and food orders", English (US), 2 aliases |
 | **Intents** | `GreetingIntent`, `OrderFoodIntent`, `FallbackIntent` |
 | **Environment** | Amazon SageMaker AI domain `LexChatbotDomain` with a JupyterLab space |
